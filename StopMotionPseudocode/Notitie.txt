@@ -1,0 +1,6 @@
+Reactie klasgenoot:
+Er spawnt een enemy die op je player afkomt. Als de enemy te dichtbij is moet je hem aanvallen om hem dood te maken.
+
+Verbetering:
+Extra foto erin gezet, zodat je kan zien wat er na de attack gebeurt met de enemy.
+
